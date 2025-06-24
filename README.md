@@ -1,5 +1,5 @@
 ## 💸 Ikdao Money(In Dev)
-Ikdao Money is a wholistic, open, and free finance tracking app built for individuals who want full control over how they manage and monitor their money and digital assets. As a powerful, community-driven alternative to apps like Mint, YNAB, Fintwit tools, and crypto portfolio trackers, Ikdao Money brings informational finance management into your hands—with no ads, no paywalls, and no hidden agendas.
+Ikdao Money is a wholistic, open, and free finance tracking app built for individuals who want full control over how they manage and monitor their money and digital assets. As a powerful, community-driven alternative to currency and crypto portfolio trackers, Ikdao Money brings informational finance management into your hands—with no ads, no paywalls, and no hidden agendas.
 
 ### ⚠️ Disclaimer
 Ikdao Money does not provide financial advice, banking, investment, or trading services.
